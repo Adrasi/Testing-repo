@@ -13,7 +13,7 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  background: #1abc9c;
+  background: black;
   color: white;
 }
 
@@ -60,7 +60,6 @@ body {
 
 /* Fake image, just for this example */
 .fakeimg {
-  background-color: #aaa;
   width: 100%;
   padding: 20px;
 }
